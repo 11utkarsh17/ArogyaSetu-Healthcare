@@ -1,0 +1,40 @@
+.medicine {
+    height: 135px;
+    width: 100%;
+    padding: 0px;
+    background-color: #3cdf99;
+    opacity: 0.9;
+}
+
+.head {
+    font-size: 50px;
+    color: white;
+    margin-left: 10%;
+    text-decoration: none;
+}
+
+.content {
+    height: 60%;
+    width: 80%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 50px 150px;
+    padding: 20px;
+}
+
+.image {
+    height: 300px;
+    width: 500px;
+    padding: 5px;
+    margin-right: 40px;
+}
+
+.para {
+    text-align: justify;
+}
+
+.medicine {
+    color: #3cdf99;
+}
