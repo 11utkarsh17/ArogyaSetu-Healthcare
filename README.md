@@ -1,8 +1,3 @@
-Perfect 👍 Adding a **professional README** makes your project look much better on GitHub.
-Here’s a ready-made README you can copy–paste into a new file called **`README.md`** inside your project root (`Healthcare/` folder).
-
----
-
 # 🏥 Healthcare – React + Vite App
 
 A modern healthcare web application built with **React + Vite**.
